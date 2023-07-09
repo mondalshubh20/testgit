@@ -1,2 +1,4 @@
 a=int(input("Enter number:"))
-print("Number is:"a);
+print("Number is:",a)
+b=int(input("Enter 2nd number:"))
+print("Number is:",b)
